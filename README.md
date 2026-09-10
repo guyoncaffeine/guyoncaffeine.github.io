@@ -32,6 +32,30 @@ Compare 150+ whey protein, creatine, mass gainer, pre-workout and BCAA products 
 - [Best Whey Protein in the US 2026 (guide)](https://wheysearch.com/en-us/blog/best-whey-protein-us-2026)
 - [Whey Isolate vs Concentrate US](https://wheysearch.com/en-us/blog/whey-isolate-vs-concentrate-us-2026)
 
+## Frutnut (India)
+
+Compare 50+ Medjool, Ajwa, Kimia dates and W180/W240/W320 cashews available on Amazon.in — ranked by price-per-kg, not brand hype.
+
+[Project page](https://guyoncaffeine.github.io/in-dryfruit-comparison/) · [frutnut.com](https://frutnut.com)
+
+- [Dates: Medjool, Ajwa, Kimia & More Compared](https://frutnut.com/dates)
+- [Cashews: W180, W240 & W320 Grades Compared](https://frutnut.com/cashews)
+- [Types of Dates in India: Which Should You Buy?](https://frutnut.com/guides/types-of-dates-in-india)
+- [How to Spot Fake Ajwa Dates](https://frutnut.com/guides/how-to-spot-fake-ajwa-dates)
+- [Cashew Grades Explained: W180 vs W240](https://frutnut.com/guides/cashew-grades-explained)
+- [Compare Two Products](https://frutnut.com/compare)
+
+## Frutnut (US)
+
+Compare Medjool dates, Deglet Noor dates and W180/W240/W320 cashews available on Amazon.com — ranked by price-per-kg.
+
+[Project page](https://guyoncaffeine.github.io/us-dryfruit-comparison/) · [frutnut.com/en-us](https://frutnut.com/en-us)
+
+- [Dates: Medjool & Deglet Noor Compared](https://frutnut.com/en-us/dates)
+- [Cashews: W180, W240 & W320 Grades Compared](https://frutnut.com/en-us/cashews)
+- [Medjool vs Deglet Noor: Which Should You Buy?](https://frutnut.com/en-us/guides/medjool-dates-buying-guide-us)
+- [Compare Two Products](https://frutnut.com/en-us/compare)
+
 ## Furmojo
 
 Compare 400+ pet food, treats, toys, supplements and grooming products on Amazon India. Find the best value for your dog, cat, bird or fish.
@@ -88,3 +112,16 @@ We test and compare the best tech for sleep, cooling, tracking and telehealth du
 - [Generator Sizing Calculator](https://poweroutagehistory.com/generator-sizing-calculator)
 - [Methodology & Data Sources](https://poweroutagehistory.com/methodology)
 - [Power Outage Prep Guides](https://poweroutagehistory.com/guides)
+
+## Perball (US)
+
+Compare 200+ golf balls from major brands on Amazon US — ranked by price per ball, trajectory, and durability rating.
+
+[Project page](https://guyoncaffeine.github.io/us-golf-balls-comparision/) · [perball.com](https://perball.com)
+
+- [Golf Balls by Brand Comparison](https://perball.com/brands)
+- [Budget Golf Balls Under $25/Dozen](https://perball.com/budget)
+- [Premium Golf Balls $40+/Dozen](https://perball.com/premium)
+- [Golf Ball Compression & Feel Guide](https://perball.com/guides/compression)
+- [Best Golf Balls for Beginners](https://perball.com/guides/beginners)
+- [Compare Two Golf Balls](https://perball.com/compare)
