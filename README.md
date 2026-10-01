@@ -9,6 +9,8 @@ Compare 150+ supplements on Amazon India ranked by price-per-serving. Find the b
 [Project page](https://guyoncaffeine.github.io/india-supplement-comparison/) · [wheysearch.com](https://wheysearch.com)
 
 - [Best Whey Protein in India 2026](https://wheysearch.com/whey-protein)
+- [Best Whey Protein in India under 3000](https://wheysearch.com/blog/best-whey-protein-under-3000-india-2026)
+- [Best Whey Protein in India under 2000](https://wheysearch.com/blog/best-whey-protein-under-2000-india-2026)
 - [Best Creatine in India 2026](https://wheysearch.com/creatine)
 - [Best Mass Gainer in India 2026](https://wheysearch.com/mass-gainer)
 - [Best Pre Workout in India 2026](https://wheysearch.com/pre-workout)
